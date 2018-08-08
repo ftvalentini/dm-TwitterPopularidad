@@ -1,0 +1,2 @@
+- medio choto que carrio tenga tilde (mejor sin tilde, creo)
+- si ya tenes el json, hace falta cargarlo a mongo para despues levantarlo como dataframe (script load_base)? no se puede levantar directamente el json sin pasar por mongodb?
